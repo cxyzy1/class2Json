@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/class2Json.iml" filepath="$PROJECT_DIR$/.idea/class2Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/class2Json.class2Json.iml" filepath="$PROJECT_DIR$/.idea/modules/class2Json.class2Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/class2Json.class2Json.main.iml" filepath="$PROJECT_DIR$/.idea/modules/class2Json.class2Json.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/class2Json.class2Json.test.iml" filepath="$PROJECT_DIR$/.idea/modules/class2Json.class2Json.test.iml" />
     </modules>
   </component>
 </project>
