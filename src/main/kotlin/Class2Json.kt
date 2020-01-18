@@ -14,7 +14,7 @@ object Class2Json {
 
         var jsonString = formatJson(Gson().toJson(dataList))
         copyToClipboard(jsonString)
-        System.out.println(jsonString)
+        println(jsonString)
     }
 
     private fun formatJson(content: String): String {
